@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    box-sizing: border-box;
+  }
+  
+  .container div {
+    height: 2em;
+  }
+  
+  .text {
+    margin-right: 3px;
+  }
